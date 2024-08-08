@@ -37,3 +37,7 @@ Bu proje, kullanıcının görevleri takip edebileceği basit bir To-Do List uyg
 - HTML
 - CSS
 - JavaScript
+
+https://github.com/user-attachments/assets/d892ac58-af9b-402f-a2a0-f5d4b4f4cdcc
+
+[Canlı Demo'yu Deneyin](https://fatihycan.github.io/To-Do-List/)
