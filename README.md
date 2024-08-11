@@ -1,42 +1,43 @@
-# To-Do List Web App
+# TO-DO List App
 
-## Project Description
-
-This project is a simple To-Do List application where the user can keep track of tasks. Developed using HTML, CSS and JavaScript. Users can add tasks, mark completed tasks, and delete tasks. The application stores tasks in the browser using local storage (localStorage), so tasks are not lost when the page is refreshed.
+This project is a simple TO-DO list application where you can keep track of your daily tasks. Users can add, mark and delete tasks. The app uses local storage so users can save their tasks and see the same list when they return.
 
 ## Features
 
 - Add tasks
-- Delete task
-- Task completion
-- Show number of completed and uncompleted tasks
-- Show the day of the day
+- Marking tasks (marking as completed)
+- Delete tasks
+- View of the number of tasks and completed tasks
+- Displaying the name of the day
 
-## Technologies
+## Technologies Used
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- Font Awesome
+- Local Storage
 
-# To-Do List Web App
+# TO-DO List Uygulaması
 
-## Proje Açıklaması
-
-Bu proje, kullanıcının görevleri takip edebileceği basit bir To-Do List uygulamasıdır. HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Kullanıcılar görevlerini ekleyebilir, tamamlanmış görevleri işaretleyebilir ve görevleri silebilirler. Uygulama, görevleri tarayıcıda yerel depolama (localStorage) kullanarak saklar, bu sayede sayfa yenilendiğinde görevler kaybolmaz.
+Bu proje, günlük görevlerinizi takip edebileceğiniz basit bir TO-DO list uygulamasıdır. Kullanıcılar görev ekleyebilir, görevleri işaretleyebilir ve silebilirler. Uygulama, kullanıcıların görevlerini kaydedip geri döndüklerinde aynı listeyi görebilmeleri için yerel depolama kullanır.
 
 ## Özellikler
 
 - Görev ekleme
-- Görev silme
-- Görev tamamlama
-- Tamamlanmış ve tamamlanmamış görevlerin sayısını gösterme
-- Günün gününü gösterme
+- Görevleri işaretleme (tamamlandı olarak işaretleme)
+- Görevleri silme
+- Görev sayısının ve tamamlanan görevlerin görünümü
+- Günün adının gösterilmesi
 
-## Teknolojiler
+## Kullanılan Teknolojiler
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- Font Awesome
+- Local Storage
+
 
 https://github.com/user-attachments/assets/d892ac58-af9b-402f-a2a0-f5d4b4f4cdcc
 
